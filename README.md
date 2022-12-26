@@ -3,8 +3,6 @@
 
 ## Data
 
-*Note that all data is fictitious!*
-
 You can find more info about the data in the tables in the [data dictionary](Dictionary.yml).
 
   1. **contacts**: a transaction table containing Customer Service (CS) contacts.
