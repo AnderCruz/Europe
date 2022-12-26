@@ -17,7 +17,7 @@ You can find more info about the data in the tables in the [data dictionary](Dic
 
 ## Task
 
-Imagine you are an "Operations Data Analyst" and the Operations Extended Leadership Team has tasked you to do an analysis for them.
+An "Operations Data Analyst" and the Operations Extended Leadership Team has tasked you to do an analysis for them.
 
 ### 1. Customer Service Overview
 
